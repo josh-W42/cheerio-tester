@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/josh-W42/cheerio-tester#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
-    "node-fetch": "^2.6.1",
+    "cheerio": "^1.1.2",
+    "node-fetch": "^2.6.7",
     "pg": "^8.5.1",
-    "sequelize": "^6.5.0"
+    "sequelize": "^6.29.0"
   }
 }
